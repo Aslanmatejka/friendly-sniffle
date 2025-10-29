@@ -399,7 +399,7 @@ function HomePage() {
                                             <div className="text-4xl font-bold text-green-600 mb-2">
                                                 {Math.round(impact.co2Saved).toLocaleString()}
                                             </div>
-                                            <div className="text-sm text-gray-600">kg CO2 Reduced</div>
+                                            <div className="text-sm text-gray-600"></div>
                                         </div>
                                     </Card>
                                 </div>
