@@ -145,8 +145,8 @@ function ImpactDataEntry() {
     };
 
     const exportToCSV = () => {
-        const headers = ['Date', 'Food Saved (kg)', 'People Helped', 'Meals Provided',
-                        'CO2 Reduced (kg)', 'Waste Diverted (kg)', 'Volunteer Hours',
+        const headers = ['Date', 'Food Saved (lb)', 'People Helped', 'Closets Served',
+                        'CO2 Reduced (lb)', 'Waste Diverted (kg)', 'Volunteer Hours',
                         'Partner Orgs', 'Notes'];
 
         const rows = data.map(row => [
