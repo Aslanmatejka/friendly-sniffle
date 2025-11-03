@@ -67,7 +67,7 @@ const communities = [
         hours: 'Monday - Friday 8:00 am - 4:00 pm',
         phone: 'Null',
         lastActive: new Date().toISOString(),
-        image: 'https://github.com/Aslanmatejka/my-public-assets/blob/main/AUSD.png'
+        image: 'https://github.com/Aslanmatejka/my-public-assets/blob/main/AUSD.png?raw=true'
     },
     {
         id: 8,
@@ -77,7 +77,7 @@ const communities = [
         hours: 'Monday - Friday 8:00 am - 4:00 pm',
         phone: 'null',
         lastActive: new Date().toISOString(),
-        image: 'https://github.com/Aslanmatejka/my-public-assets/blob/main/OUSD.png'
+        image: 'https://github.com/Aslanmatejka/my-public-assets/blob/main/OUSD.png?raw=true'
     },
     
 
