@@ -62,10 +62,10 @@ const communities = [
     {
         id: 7,
         name: 'Alameda Unified School District',
-        location: 'Null',
-        contact: 'Null',
+        location: '1011 Union Street Oakland, CA94607',
+        contact: 'Khánh Hữu Nguyên',
         hours: 'Monday - Friday 8:00 am - 4:00 pm',
-        phone: 'Null',
+        phone: '510-879-1525',
         lastActive: new Date().toISOString(),
         image: 'https://github.com/Aslanmatejka/my-public-assets/blob/main/AUSD.png?raw=true'
     },
