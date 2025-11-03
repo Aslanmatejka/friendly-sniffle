@@ -58,7 +58,31 @@ const communities = [
         phone: '510-748-4023',
         lastActive: new Date().toISOString(),
         image: 'https://github.com/Aslanmatejka/my-public-assets/blob/main/jets.jpg?raw=true'
-    }
+    },
+    {
+        id: 7,
+        name: 'Alameda Unified School District',
+        location: 'Null',
+        contact: 'Null',
+        hours: 'Monday - Friday 8:00 am - 4:00 pm',
+        phone: 'Null',
+        lastActive: new Date().toISOString(),
+        image: 'https://github.com/Aslanmatejka/my-public-assets/blob/main/AUSD.png'
+    },
+    {
+        id: 8,
+        name: 'Oakland Unified School District',
+        location: 'no location',
+        contact: 'no name',
+        hours: 'Monday - Friday 8:00 am - 4:00 pm',
+        phone: 'null',
+        lastActive: new Date().toISOString(),
+        image: 'https://github.com/Aslanmatejka/my-public-assets/blob/main/OUSD.png'
+    },
+    
+
+
+    
 ];
 
 export default communities;
