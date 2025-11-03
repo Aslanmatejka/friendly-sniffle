@@ -72,8 +72,8 @@ const communities = [
     {
         id: 8,
         name: 'Alameda Unified School District',
-        location: 'no location',
-        contact: 'no name',
+        location: '2060 Challenger DrAlamedaCA94501',
+        contact: 'Jodi McCarthy',
         hours: 'Monday - Friday 8:00 am - 4:00 pm',
         phone: 'null',
         lastActive: new Date().toISOString(),
